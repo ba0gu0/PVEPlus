@@ -1,0 +1,5 @@
+requests>=2.31.0
+Flask>=2.3.2
+proxmoxer>=2.0.1
+uWSGI>=2.0.22
+Flask-Session>=0.4.0

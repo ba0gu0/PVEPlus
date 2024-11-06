@@ -26,6 +26,3 @@ pnpm-lock.yaml
 *.njsproj
 *.sln
 *.sw?
-__pycache__
-test
-venv

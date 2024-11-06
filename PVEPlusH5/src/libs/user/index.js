@@ -1,0 +1,7 @@
+export * from './checkLogin'
+export * from './doLogin'
+export * from './doLogout'
+export * from './deleteDIsk'
+export * from './downloadDisk'
+export * from './mergeDisk'
+export * from './getDisks'
